@@ -1,1 +1,1 @@
-# MarathiNet
+# MarathoNet
