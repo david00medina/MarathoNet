@@ -1,0 +1,5 @@
+videos/*
+.ipynb_checkpoints/*
+images/*
+models/*
+out/*
