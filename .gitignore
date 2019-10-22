@@ -1,5 +1,6 @@
-videos/*
-.ipynb_checkpoints/*
-images/*
-models/*
-out/*
+videos
+.ipynb_checkpoints
+images
+models
+out
+config.yml
